@@ -81,8 +81,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kooroshkz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=kooroshkz&theme=dark" alt="kooroshkz" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kooroshkz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kooroshkz&theme=dark" alt="kooroshkz" />
 </div>
 
 
