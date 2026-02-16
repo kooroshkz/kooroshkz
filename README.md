@@ -70,11 +70,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kooroshkz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="180" alt="languages graph" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=kooroshkz&theme=dark" alt="kooroshkz" />
+  <img align="center" src="https://github-readme-stats-matin.vercel.app/api/top-langs/?username=kooroshkz&layout=compact&theme=dark" alt="kooroshkz github readme top-langs" width="32.5%"/>
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=kooroshkz&theme=dark"  width="45%"  />
+
 </div>
-
-
-
-
-
